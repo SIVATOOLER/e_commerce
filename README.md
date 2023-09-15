@@ -1,16 +1,21 @@
-# nithitex
+# E-commerce
 
-A new Flutter project.
+This is a model E-commerce application build with flutter 
 
-## Getting Started
+## 📱 Screenshots
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![s1](https://github.com/SIVATOOLER/e_commerce/assets/133346684/2d7b3df4-2d82-4d77-9bc7-dfb460a42447)      
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![s2](https://github.com/SIVATOOLER/e_commerce/assets/133346684/968ed987-4431-4392-8ee3-7f5cc7439412)
+
+
+![s3](https://github.com/SIVATOOLER/e_commerce/assets/133346684/b3e69589-bb97-4c5e-b0ae-3b31576670cb)
+
+
+![s4](https://github.com/SIVATOOLER/e_commerce/assets/133346684/15422a1e-b36f-43d5-af46-84a37472ae2b)
+
+
+![s5](https://github.com/SIVATOOLER/e_commerce/assets/133346684/20565e29-f8ff-46c2-bb7c-a02c85f7f5ff)
